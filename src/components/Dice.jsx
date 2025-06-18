@@ -4,7 +4,7 @@ import { colors } from '../styles/colors';
 import { diceStyles } from '../styles/diceStyles';
 
 export default function Dice({ number }) {
-  // Mapeo de números a patrones de lazos
+ 
   const dicePatterns = {
     1: ['🎀'],
     2: ['🎀', '🎀'],
